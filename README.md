@@ -1,5 +1,3 @@
-# INFO6210_DB_Project
-
 # 2019-Movies-DB
 
 # For INFO 6210 Course Project
